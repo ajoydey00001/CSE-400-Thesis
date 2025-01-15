@@ -1,2 +1,2 @@
 # BanglaGEC
-Transformers on Bangla Grammatical Error Correction Task
+Transformers on Bangla Spell Error Correction Task
