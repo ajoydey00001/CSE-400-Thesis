@@ -1,4 +1,4 @@
-# BSSpell 🧠🇧🇩
+# BSSpellBSSpell: A Monolingual Transformer-Based Sentence Level Spelling Error Correction Method for Bangla
 A Monolingual Transformer-Based Sentence-Level Spelling Error Correction Model for Bangla
 
 BSSpell is a sentence-level Bangla spelling correction model built on a Transformer-based encoder-decoder architecture, enhanced through **Knowledge Distillation** from a grammatical error correction task. It achieves **97.02% accuracy** on a custom 3.8M sentence corpus.
